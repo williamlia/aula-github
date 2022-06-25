@@ -1,6 +1,6 @@
 ### Aula de Git e Github
 
-This stage I learning 
+This stage I learned 
 
 - Git initialization
 - Git Add and Commit changes
